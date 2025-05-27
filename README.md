@@ -7,13 +7,6 @@ Dataset:https://huggingface.co/datasets/Eting0308/canola-green-flower-bud-detect
 
 ![image](https://github.com/user-attachments/assets/ed5f491d-d00c-46c6-9262-ff7831f0d8b0)
 
-	R²	mAP@50	mAP@50:95	R² diff	mAP@50 diff	mAP (50-95) diff
-Original 	0.825 	0.832 	0.425 	-	-	-
-SPD-Conv	0.844 	0.884 	0.468 	0.019	0.053	0.043
-C3K2-PPA	0.873 	0.862 	0.447 	0.048	0.031	0.022
-ASFFHead	0.857 	0.855 	0.420 	0.032	0.023	-0.006
-SPD-Conv+C3K2-PPA	0.844 	0.920 	0.510 	0.019	0.089	0.085
-SPD-Conv+ASFFHead	0.736 	0.853 	0.469 	-0.089	0.021	0.044
-C3K2-PPA+ASFFHead	0.894 	0.894 	0.474 	0.069	0.062	0.049
-Advanced	0.879 	0.910 	0.498 	0.054	0.078	0.072
+![image](https://github.com/user-attachments/assets/78fee248-2840-4fcc-aef7-09a4bcc75826)
+
 
